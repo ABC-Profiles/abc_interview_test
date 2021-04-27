@@ -1,4 +1,4 @@
-Please try and finish step 1 before the start of our session.
+### NOTE: Please try and finish step 1 before the start of our session.
 
 ### `Step 1 - Project Setup`
 
